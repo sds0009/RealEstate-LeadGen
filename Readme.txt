@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: EstateAgency
-Template URL: https://bootstrapmade.com/real-estate-agency-bootstrap-template/
+Template Name: Real Estate Lead Generation
+Template URL: https://OmniALBuyers.com/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
