@@ -11,7 +11,7 @@
 
 
 .registration-form{
-	padding: 50px 0;
+	/* padding: 50px 0; */
 }
 
 .registration-form form{
@@ -1049,9 +1049,11 @@ a:hover {
 # Hero Section
 --------------------------------------------------------------*/
 .intro {
-  height: 100vh;
+  min-height: 768px;
+  height: auto;
   position: relative;
   color: #ffffff;
+  margin-top: 87px;
 }
 
 .intro .swiper-pagination {
